@@ -1,0 +1,11 @@
+.PessoaContainer{
+    background:gray;
+    border-radius: 10px;
+}
+.Titles{
+    color: red;
+    font-size: 18px;
+}
+.Paragrafo{
+    font: normal 12px arial;
+}
